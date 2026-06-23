@@ -306,7 +306,7 @@ Automatically fetch trending topics from:
 
 ## Analytics Dashboard
 
-Build using Streamlit.
+Built using Streamlit.
 
 Features:
 
@@ -339,16 +339,8 @@ Future Upgrade:
 
 ---
 
-# Resume Description
-
-Built a multi-agent AI content automation platform using Python, Gemini API, SQLite, and JSON workflows. Developed autonomous agents for topic generation, blog creation, SEO optimization, Reddit content generation, reel scripting, scheduling, and centralized orchestration through a Manager Agent. Implemented error handling, automated storage, and scalable architecture for future social media automation.
-
----
-
 # Author
 
 Janvi Agarwal
-
-B.Tech CSE (Data Science)
 
 Agentic AI & Automation Project
